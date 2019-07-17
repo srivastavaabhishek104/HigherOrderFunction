@@ -6,8 +6,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <ClickCounter/>
-        <HoverCounter/>
+        <ClickCounter />
+        <HoverCounter name="Abhishek Srivastava"/>
       </div>
     );
   }
